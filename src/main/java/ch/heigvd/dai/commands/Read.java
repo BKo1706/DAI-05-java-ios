@@ -31,6 +31,5 @@ public class Read implements Callable<Integer> {
 
     reader.read(parent.getFilename());
     return 0;
-    /**test*/
   }
 }
